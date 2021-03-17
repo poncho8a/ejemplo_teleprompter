@@ -222,7 +222,7 @@ function loadPosts() {
 
 // Initialize Facebook SDK
 FB.init({
-  appId: FB_APP_ID, // App ID comes from environment at *build* time.  See README.md and webpack.config.js.
+  appId: 437368550898750, // App ID comes from environment at *build* time.  See README.md and webpack.config.js.
   version: 'v2.12',
   status: true
 });
